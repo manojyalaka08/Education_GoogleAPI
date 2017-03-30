@@ -1,0 +1,17 @@
+<div class="wrapper col1">
+  <div id="header">
+    <div id="logo">
+      <span><h1><a href="index.html">Instructor</a></h1></span>
+      <p>Visualize Your Data</p>
+    </div>
+    <div class="fl_right">
+      <ul>
+	  <li><form action="logout.php" method="post">
+	  <input type="submit" value="Logout" name="submit" style="background-color:#8B785F;" />
+	  </form>
+	  </li>
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
